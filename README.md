@@ -10,6 +10,7 @@ Before running the code, ensure that you have the following installed on your ma
 – node.js, npm
 - circom
 - rust
+- rust fmt (```rustup component add rustfmt```)
 - cargo-expand (```cargo install cargo-expand```)
 - solana-cli >= 1.16.4
 
