@@ -2,7 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/rust
 {
 	"name": "Light Protocol",
-	"image": "ghcr.io/lightprotocol/devcontainer-core:pr-10",
+	"image": "ghcr.io/lightprotocol/devcontainer-core:main",
 	"mounts": [
 		// Solana keypair.
 		{
