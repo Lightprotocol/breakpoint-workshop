@@ -4,6 +4,10 @@ This is a TypeScript implementation of the private swap. This example is built o
 
 It uses [Light Protocol v3](https://github.com/Lightprotocol/light-protocol) for private state and state transitions. This allows the swaps to be executed fully on-chain.
 
+## Support
+
+If you face any issues running this example or have questions related to PSPs, feel free to join the community Discord [here](https://discord.gg/Q3wvnSrKgm).
+
 ## Prerequisites
 
 Before running the code, ensure that you have the following installed on your machine:
