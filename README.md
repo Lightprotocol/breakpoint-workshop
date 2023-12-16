@@ -12,7 +12,8 @@ If you face any issues running this example or have questions related to PSPs, f
 
 Before running the code, ensure that you have the following installed on your machine:
 
-– node.js, npm
+
+- node.js, npm
 - circom
 - rust
 - rust fmt (```rustup component add rustfmt```)
